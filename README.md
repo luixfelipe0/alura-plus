@@ -1,7 +1,7 @@
 <h1 align="center">Alura Plus</h1>
 
 <p align="center">
-![Logo](https://user-images.githubusercontent.com/119303049/215134878-7e1cb616-f219-47ce-baed-3e3a61a91026.png)
+![Logo do projeto.](https://user-images.githubusercontent.com/119303049/215134878-7e1cb616-f219-47ce-baed-3e3a61a91026.png)
 <p/>
 
 Esse é um projeto criado a partir do curso de HTML e CSS da Alura. Instruido pela Monica Hillman.
